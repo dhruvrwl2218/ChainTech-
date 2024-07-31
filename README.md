@@ -1,6 +1,6 @@
 # Mini Application for Chaitech
 
-This mini application was created as part of an assignment for the job role at Chaitech. It includes user login, registration, and account management functionalities.
+This mini application was created as part of an assignment for the job role at Chaitech Network. It includes user login, registration, and account management functionalities.
 
 ## Features
 
