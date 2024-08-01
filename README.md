@@ -1,6 +1,6 @@
 # Mini Application for Chaitech
 
-This mini application was created as part of an assignment for the job role at Chaitech. It includes user login, registration, and account management functionalities.
+This mini application was created as part of an assignment for the job role at Chaitech Network. It includes user login, registration, and account management functionalities.
 
 ## Features
 
@@ -34,4 +34,17 @@ This mini application was created as part of an assignment for the job role at C
 3. **Endpoints**:
    - `POST /user/login`: User login.
    - `POST /user/register`: User registration.
-   - `PUT /user/edit/:id`: Update user information.
+   - `PUT /user/edit/:id`
+   -
+   
+   ## register Page
+   - ![registerpage](https://github.com/user-attachments/assets/0187ef18-9c98-4163-b924-79f5ed4e78e5)
+: Update user information.
+
+   ## Login page
+   -![loggin](https://github.com/user-attachments/assets/0fd5482e-d83b-4c31-85b7-124ef2ab1153)
+
+   ## User details  
+   ![mangeuser](https://github.com/user-attachments/assets/c316c702-22d9-44b8-9884-e40c4a57ac88)
+
+   - 
