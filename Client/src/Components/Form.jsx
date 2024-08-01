@@ -146,11 +146,8 @@ const Form = ({ onSubmit, editdata }) => {
   return (
     <div className="flex flex-wrap w-3/4 shadow-gray-200 shadow-lg lg:px-20">
       <h2 className="text-4xl font-bold w-full text-center  mt-3 text-indigo-600 bg-neutral-800 p-1">
-        {formType === "login"
-          ? "User Login"
-          : formType === "register"
-          ? "User Registeration"
-          : "Edit User-Info"}
+        {formType === "register"
+          ? "User Registeration": formType === "edit" ? "Edit User-Info" : "User LogIn"}
       </h2>
       
       {formType === "register" || formType === "edit" ? (  // Seprate forms are there for the login and (register & edit have same)
